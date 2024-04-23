@@ -30,14 +30,14 @@
 }
 .sidebar-link {
   display: flex;
-  flex-direction: column;
+  /* align-items: center; */
 }
 .sidebar-link-active {
   color: #fff;
   font-weight: 600;
 }
 .sidebar-link-icon {
-  background: #ff755;
+  background: #ff7500;
 }
 .header {
   display: flex;
